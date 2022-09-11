@@ -4,10 +4,9 @@ import (
 	"strings"
 	"unicode"
 
+	"github.com/hxz2015/protoc-gen-go-errors/errors"
 	"golang.org/x/text/cases"
 	"golang.org/x/text/language"
-
-	"protoc-gen-go-errors/errors"
 
 	"google.golang.org/protobuf/compiler/protogen"
 	"google.golang.org/protobuf/proto"

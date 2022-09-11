@@ -1,4 +1,4 @@
-module protoc-gen-go-errors
+module github.com/hxz2015/protoc-gen-go-errors
 
 go 1.17
 
