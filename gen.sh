@@ -1,1 +1,1 @@
-protoc --go_out=. --go_out=paths=source_relative:.    ./errors/errors.proto
+protoc --go_out=.  --go_out=paths=source_relative:.    ./errors/errors.proto
